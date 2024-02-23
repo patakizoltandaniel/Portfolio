@@ -50,13 +50,13 @@ This is a portfolio of a Junior QA Engineer
   #### QA Engineer Intensive practical course 
   Online course by GoIT Romania
 # Examples of my work
-  ## Test cases and work in TestRail
+  ### Test cases and work in TestRail
 
-  ## Bug reports and work in Jira
+  ### Bug reports and work in Jira
 
-  ## API testing in Postman
+  ### API testing in Postman
 
-  ## SQL work in DBeaver
+  ### SQL work in DBeaver
 
 
 
